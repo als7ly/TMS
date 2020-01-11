@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "238419976330",
+    "firebase_url": "https://tms2000.firebaseio.com",
+    "project_id": "tms2000",
+    "storage_bucket": "tms2000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238419976330:android:e6d78c3069e2623748cd73",
+        "android_client_info": {
+          "package_name": "com.mts.tms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238419976330-n0sdn5tq76pg36jmkgfkrimt2f546fri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD9wA5Wb1Ikj8m6JWsQWTnRWjyNemnQy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238419976330-n0sdn5tq76pg36jmkgfkrimt2f546fri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
